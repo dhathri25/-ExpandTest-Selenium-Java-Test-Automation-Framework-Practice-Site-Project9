@@ -175,3 +175,7 @@ Both of these are handled by `TestListener`, registered as a TestNG listener via
 **Add another browser:**
 1. Add an `else if` block in `BaseTest.setUp()` for the new browser.
 2. Update `config.properties` with `browser=firefox` (or whichever).
+
+---
+Delevoped By Dhathri Putty 
+
